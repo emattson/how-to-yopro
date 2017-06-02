@@ -22,5 +22,6 @@
   },
   "paginator": {
     "perPage": 10
-  }
+},
+"baseUrl": "/how-to-yopro"
 }
