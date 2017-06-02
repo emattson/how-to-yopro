@@ -1,9 +1,9 @@
 {
   "locals": {
     "url": "http://localhost:8080",
-    "name": "How to YoPro",
+    "name": "How to yo pro",
     "owner": "Eli",
-    "description": "Yopro: A recent college graduate living on their own that finally scored a good job and spends most of their salary at bars."
+    "description": "Rambling advice for newly minted young professionals"
   },
   "plugins": [
     "./plugins/paginator.coffee"
@@ -21,6 +21,6 @@
     "smartypants": true
   },
   "paginator": {
-    "perPage": 100
+    "perPage": 10
   }
 }
