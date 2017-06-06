@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>How to yo pro</title>
+    <atom:link href="http://localhost:8080/feed.xml" rel="self" type="application/rss+xml"></atom:link>
+    <link>http://localhost:8080</link>
+    <description>Rambling advice for newly minted young professionals</description>
+    <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
+    <generator>Wintersmith - https://github.com/jnordberg/wintersmith</generator>
+    <language>en</language>
+    <item>
+      <title>Don't get a dog</title>
+      <link>http://localhost:8080/how-to-yopro/articles/no-dog/</link>
+      <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">http://localhost:8080/how-to-yopro/articles/no-dog/</guid>
+      <description>&lt;p&gt;Dogs are adorable and we all love them. But you know who the right person to get a
+dog is? Your neighbor / friend.
+&lt;br&gt;&lt;br&gt;
+Don’t let Rover’s big puppy dog eyes deceive you. Next thing you know they’ll be
+keeping you from going to that once in a lifetime concert because you couldn’t
+find a dog sitter.&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Keep working out</title>
+      <link>http://localhost:8080/how-to-yopro/articles/work-out/</link>
+      <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">http://localhost:8080/how-to-yopro/articles/work-out/</guid>
+      <description>&lt;p&gt;Yes it’s hard, but it’s even harder to regain your college body once you lose
+it. Now that the specter of homework isn’t hanging over your head every evening you’ll find you have some
+extra time. Don’t spend &lt;em&gt;all&lt;/em&gt; your newfound hours at happy hour.&lt;/p&gt;
+</description>
+    </item>
+  </channel>
+</rss>
